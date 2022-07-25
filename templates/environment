@@ -1,0 +1,4 @@
+name: {name}
+channels:
+  - defaults
+prefix: {prefix_path}

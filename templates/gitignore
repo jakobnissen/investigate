@@ -1,0 +1,8 @@
+results
+tmp
+cache
+raw
+.DS_Store
+.ipynb_checkpoints
+**.vscode
+{python_gitignore}

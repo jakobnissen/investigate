@@ -1,0 +1,4 @@
+name = "{module_name}"
+uuid = "{uuid_str}"
+authors = ["{author}"]
+version = "0.1.0"

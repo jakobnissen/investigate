@@ -1,0 +1,13 @@
+[package]
+name = "investigate"
+version = "0.1.0"
+edition = "2021"
+description = "Create template directories for scientific projects."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.19"
+clap = {version = "3.2.8", features = ["derive", "std"], default_features=false}
+git2 = "0.14.4"
+uuid = {version = "1.1.2", features = ["v4"]}
