@@ -10,8 +10,9 @@ $ investigate rna_expression --language python
 ```
 
 The directory may optionally be initialized with a programming language (currently either "julia" or "python"):
-    * If "julia", add a `Project.toml` for your project, and an empty `src/main.jl`
-    * If "python", initialize a new conda env, and add `environment.yml` and an empty `src/main.py`
+
+* If "julia", add a `Project.toml` for your project, and an empty `src/main.jl`
+* If "python", initialize a new conda env, and add `environment.yml` and an empty `src/main.py`
 
 ## Directory structure
 * `raw`: Raw data, e.g. experimental data, or data from external research groups.
